@@ -1,4 +1,3 @@
-```markdown
 # 🧠 BrainSpark
 
 **Challenge your mind. Learn. Grow. Have fun with knowledge.**
@@ -9,24 +8,32 @@ BrainSpark is an interactive learning platform designed to make knowledge exciti
 
 ## 🚀 Features
 
-- ⚡ **Interactive Quizzes:** Test your skills across multiple topics.  
-- 🧩 **Dynamic Learning:** Personalized experiences that adapt to your progress.  
-- 🎨 **Modern UI:** Sleek, responsive design powered by React & Tailwind CSS.  
-- 🌐 **Social Integration:** Share your progress on social media.  
-- 🔒 **User-Friendly:** Fast, secure, and intuitive to use.  
+* ⚡ **Interactive Quizzes:** Test your skills across multiple topics.
+* 🧩 **Dynamic Learning:** Personalized experiences that adapt to your progress.
+* 🎨 **Modern UI:** Sleek, responsive design powered by React & Tailwind CSS.
+* 🌐 **Social Integration:** Share your progress on social media.
+* 🔒 **User-Friendly:** Fast, secure, and intuitive to use.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technology |
-|-----------|-------------|
-| Frontend | React, React Router, Tailwind CSS |
-| Icons | React Icons |
-| State Management | React Hooks / Context API |
-| Build Tool | Vite or Create React App |
-| Deployment | Vercel / Netlify / GitHub Pages |
+| Category         | Technology                        |
+| ---------------- | --------------------------------- |
+| Frontend         | React, React Router, Tailwind CSS |
+| Icons            | React Icons                       |
+| State Management | React Hooks / Context API         |
+| Build Tool       | Vite or Create React App          |
+| Deployment       | Vercel / Netlify / GitHub Pages   |
 
+---
+
+## 🌟 Support the Project
+
+If you like **BrainSpark**, don’t forget to give it a **⭐ star** on GitHub!
+Your support helps the project grow and reach more learners around the world.
+
+👉 [**Star this repo**](https://github.com/amitrajstm/BrainSpark)
 
 ---
 
@@ -45,7 +52,7 @@ If you’d like to contribute:
 ## 🧑‍💻 Author
 
 **BrainSpark Team**
-🔗 [LinkedIn](https://www.linkedin.com/in/amitkumarraj-stm/) | [Youtube](https://www.youtube.com/@stmcoder) | [GitHub](https://github.com/amitrajstm/)
+🔗 [LinkedIn](https://www.linkedin.com/in/amitkumarraj-stm/) | [YouTube](https://www.youtube.com/@stmcoder) | [GitHub](https://github.com/amitrajstm/)
 
 ---
 
