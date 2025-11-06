@@ -33,6 +33,6 @@ app.get("/", (req, res) => {
 app.use("/api/v1/", routes);
 
 // activate server
-app.listen(PORT, () => {
+app.listen(PORT,'0.0.0.0', () => {
   console.log(`App is running on port ${PORT}`);
 });
