@@ -70,7 +70,7 @@ const AttemptQuiz = () => {
                             <span className='flex flex-col md:flex-row justify-between items-center gap-x-5 gap-y-1 font-thin'>
                                 <p className='font-thin mt-1 line-clamp-2'>{quizDetails?.description} </p>
                                 <span className='flex gap-3 text-slate-300 w-fit text-nowrap'>
-                                    <p>crated By - {quizDetails?.createdBy?.username}</p>
+                                    <p>Created By - {quizDetails?.createdBy?.username}</p>
                                     <p>{formatDistanceToNow(new Date(quizDetails.createdAt), { addSuffix: true })}</p>
                                 </span>
                             </span>
