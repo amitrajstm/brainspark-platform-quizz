@@ -27,7 +27,7 @@ const LogIn = () => {
     try {
       const response = await login(data, dispatch);
       if (response) {
-        navigate("/dashboard");
+        navigate("/");
       }
     } catch (e) {
       console.log("ERROR WHILE SINGING UP : ", e);
