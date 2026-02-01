@@ -38,7 +38,7 @@ const Footer = () => {
         {/* Social Media Icons */}
         <div className="flex gap-5 text-xl">
           <a
-            href="https://www.linkedin.com/in/amitkumarraj-stm/"
+            href="https://www.facebook.com/englishconversationinsitamarhi"
             target="_blank"
             rel="noreferrer"
             className="hover:text-green-400 transition-colors duration-300"
@@ -46,7 +46,7 @@ const Footer = () => {
             <FaFacebookF />
           </a>
           <a
-            href="https://www.linkedin.com/in/amitkumarraj-stm/"
+            href="https://x.com/Amit_Raj_Stm"
             target="_blank"
             rel="noreferrer"
             className="hover:text-green-400 transition-colors duration-300"
@@ -54,7 +54,7 @@ const Footer = () => {
             <FaTwitter />
           </a>
           <a
-            href="https://www.linkedin.com/in/amitkumarraj-stm/"
+            href="https://www.instagram.com/amitraj_stm"
             target="_blank"
             rel="noreferrer"
             className="hover:text-green-400 transition-colors duration-300"
@@ -70,7 +70,7 @@ const Footer = () => {
             <FaLinkedinIn />
           </a>
           <a
-            href="https://www.linkedin.com/in/amitkumarraj-stm/"
+            href="https://github.com/amitrajstm"
             target="_blank"
             rel="noreferrer"
             className="hover:text-green-400 transition-colors duration-300"
