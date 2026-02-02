@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between py-2">
       {/* Logo + Brand */}
-      <Link to="/" className="flex items-center gap-3">
+      <Link to="/" className="flex items-center gap-1">
         <img
           src="/logo.png"
           alt="BrainSpark Logo"
