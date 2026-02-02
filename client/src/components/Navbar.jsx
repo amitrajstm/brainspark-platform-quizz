@@ -3,13 +3,13 @@ import { Link, NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div className="flex items-center justify-between py-3">
+    <div className="flex items-center justify-between py-2">
       {/* Logo + Brand */}
       <Link to="/" className="flex items-center gap-3">
         <img
           src="/logo.png"
           alt="BrainSpark Logo"
-          className="w-[128px] h-[91px] object-contain"
+          className="w-[144px] h-[91px] object-contain"
 
         />
       </Link>
