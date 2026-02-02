@@ -5,17 +5,14 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between py-3">
       {/* Logo + Brand */}
-      <Link to="/" className="flex items-center gap-2">
-        <img
-          src="/logo.png"
-          alt="BrainSpark Logo"
-          className="w-[90px] h-[90px] object-contain"
-        />
+      <Link to="/" className="flex items-center gap-3">
+  <img
+    src="/logo.png"
+    alt="BrainSpark Logo"
+    className="w-20 h-20 object-contain"
+  />
+</Link>
 
-        {/* <span className="text-3xl font-bold bg-gradient-to-r from-green-400 to-green-600 bg-clip-text text-transparent font-mono">
-           BrainSpark 
-        </span>  */}
-      </Link>
 
       {/* Menu */}
       <div className="flex gap-5">
