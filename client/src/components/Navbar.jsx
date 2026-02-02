@@ -9,7 +9,7 @@ const Navbar = () => {
         <img
           src="./logo.png"
           alt="BrainSpark Logo"
-          className="w-11 h-11 object-contain"
+          className="w-15 h-15 object-contain"
         />
         {/* <span className="text-3xl font-bold bg-gradient-to-r from-green-400 to-green-600 bg-clip-text text-transparent font-mono">
            BrainSpark 
