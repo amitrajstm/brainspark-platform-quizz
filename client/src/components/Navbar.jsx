@@ -6,12 +6,12 @@ const Navbar = () => {
     <div className="flex items-center justify-between py-3">
       {/* Logo + Brand */}
       <Link to="/" className="flex items-center gap-3">
-  <img
-    src="/logo.png"
-    alt="BrainSpark Logo"
-    className="w-20 h-22 object-contain"
-  />
-</Link>
+        <img
+          src="/logo.png"
+          alt="BrainSpark Logo"
+          className="w-20 h-23 object-contain"
+        />
+      </Link>
 
 
       {/* Menu */}
