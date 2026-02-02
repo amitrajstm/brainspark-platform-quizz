@@ -7,10 +7,11 @@ const Navbar = () => {
       {/* Logo + Brand */}
       <Link to="/" className="flex items-center gap-2">
         <img
-          src="./logo.png"
-          alt="BrainSpark Logo"
-          className="w-15 h-15 object-contain"
-        />
+  src="/logo.png"
+  alt="BrainSpark Logo"
+  className="w-[80px] h-[80px] object-contain"
+/>
+
         {/* <span className="text-3xl font-bold bg-gradient-to-r from-green-400 to-green-600 bg-clip-text text-transparent font-mono">
            BrainSpark 
         </span>  */}
