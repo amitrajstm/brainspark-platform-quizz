@@ -28,7 +28,7 @@ const Footer = () => {
             <img
               src="/logo.png"
               alt="BrainSpark Logo"
-              className="w-21 h-23 object-contain"
+              className="w-21 h-17 object-contain"
             />
         </Link>
           <p className="text-sm mt-2 text-slate-400">
