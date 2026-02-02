@@ -9,7 +9,7 @@ const Navbar = () => {
   <img
     src="/logo.png"
     alt="BrainSpark Logo"
-    className="w-25 h-25 object-contain"
+    className="w-25 h-22 object-contain"
   />
 </Link>
 
