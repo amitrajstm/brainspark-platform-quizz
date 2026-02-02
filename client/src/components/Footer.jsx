@@ -24,12 +24,13 @@ const Footer = () => {
       <div className="container mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-6">
         {/* Brand Section */}
         <div className="text-center md:text-left">
-          <Link
-            to="/"
-            className="text-3xl font-bold bg-gradient-to-r from-green-400 to-green-600 bg-clip-text text-transparent font-mono hover:from-green-300 hover:to-green-500 transition-all duration-300"
-          >
-            BrainSpark
-          </Link>
+         <Link to="/" className="flex items-center gap-3">
+            <img
+              src="/logo.png"
+              alt="BrainSpark Logo"
+              className="w-21 h-23 object-contain"
+            />
+        </Link>
           <p className="text-sm mt-2 text-slate-400">
             Challenge your mind. Learn. Grow. Have fun with knowledge.
           </p>
