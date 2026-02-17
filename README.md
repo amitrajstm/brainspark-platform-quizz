@@ -1,4 +1,8 @@
-# 🧠 BrainSpark
+<p align="center">
+  <img src="https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/logo.png?raw=true" width="160" alt="BrainSpark Logo"/>
+</p>
+
+---
 
 **Challenge your mind. Learn. Grow. Have fun with knowledge.**
 
@@ -25,6 +29,26 @@ BrainSpark is an interactive learning platform designed to make knowledge exciti
 | State Management | React Hooks / Context API         |
 | Build Tool       | Vite or Create React App          |
 | Deployment       | Vercel / Netlify / GitHub Pages   |
+
+---
+
+## 🖼️ Screenshots
+
+### 💻 Desktop View
+
+![BrainSpark Screenshot](https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/Screenshot_BrainSpark.png?raw=true)
+
+![BrainSpark Footer](https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/Screenshot_BrainSpark_footer.png?raw=true)
+
+### 📱 Mobile View
+
+### 📱 Mobile View
+
+<p align="center">
+  <img src="https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/mobileView.jpeg?raw=true" width="500" alt="Mobile View 1"/>
+  <img src="https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/mobileView2.jpeg?raw=true" width="500" alt="Mobile View 2"/>
+</p>
+
 
 ---
 
