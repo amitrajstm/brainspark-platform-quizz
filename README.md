@@ -42,11 +42,10 @@ BrainSpark is an interactive learning platform designed to make knowledge exciti
 
 ### 📱 Mobile View
 
-### 📱 Mobile View
 
 <p align="center">
-  <img src="https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/mobileView.jpeg?raw=true" width="500" alt="Mobile View 1"/>
-  <img src="https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/mobileView2.jpeg?raw=true" width="500" alt="Mobile View 2"/>
+  <img src="https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/mobileView.jpeg?raw=true" width="300" alt="Mobile View 1"/>
+  <img src="https://github.com/amitrajstm/brainspark-platform-quizz/blob/main/client/public/mobileView2.jpeg?raw=true" width="300" alt="Mobile View 2"/>
 </p>
 
 
