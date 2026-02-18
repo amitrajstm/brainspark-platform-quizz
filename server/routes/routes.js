@@ -37,21 +37,12 @@ router.put("/quizzes/:id", authMiddleware, adminMiddleware, updateQuiz);
 router.delete("/quizzes/:id", authMiddleware, adminMiddleware, deleteQuiz);
 
 // question routes
-router.get("/questions/:id", authMiddleware, getQuizQuestions);
-router.post(
-  "/questions/bulk",
-  authMiddleware,
-  adminMiddleware,
-  createBulkQuestions,
-);
+
+router.post("/questions/bulk",authMiddleware,adminMiddleware,createBulkQuestions);
 router.post("/questions", authMiddleware, adminMiddleware, createQuestion);
+router.get("/questions/:id", authMiddleware, getQuizQuestions);
 router.put("/questions/:id", authMiddleware, adminMiddleware, updateQuestion);
-router.delete(
-  "/questions/:id",
-  authMiddleware,
-  adminMiddleware,
-  deleteQuestion,
-);
+router.delete("/questions/:id",authMiddleware,adminMiddleware,deleteQuestion);
 
 // data routes
 router.get("/quizzes", authMiddleware, getAllQuizzes);
