@@ -1,4 +1,5 @@
 const mongoose = require("mongoose")
+const Question = require("./Question");
 const Schema = mongoose.Schema;
 
 const quizSchema = new mongoose.Schema({
@@ -20,5 +21,12 @@ const quizSchema = new mongoose.Schema({
       required: true
     }
   }, { timestamps: true });
+
+
+quizSchema.post("findOneAndDelete", async function (doc) {
+  if (doc) {
+    await Question.deleteMany({ quizId: doc._id });
+  }
+});
   
 module.exports = mongoose.model('Quiz', quizSchema);
